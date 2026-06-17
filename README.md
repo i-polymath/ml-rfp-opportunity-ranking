@@ -54,12 +54,6 @@ Additional feature engineering included:
 
 ---
 
-## Project Workflow
-
-[Insert workflow image]
-
----
-
 ## Technologies Used
 
 - Python
@@ -89,7 +83,7 @@ Additional feature engineering included:
 
 ### Feature Engineering
 
-- Has Known Country
+- Has 'Known Country' indicator
 - Proposal Status
 - Region classification
 
@@ -123,7 +117,7 @@ Random Forest was selected as the preferred model due to its stronger classifica
 
 ## Business Impact
 
-Estimated annual savings:
+Concept estimated annual savings:
 
 - 168 hours saved per week
 - ~$756,000 annual labor savings
